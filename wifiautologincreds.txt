@@ -1,4 +1,4 @@
-http://hnbg.wifi/login
+http://testwifi.abc/login
 guest
 guest
 wi-fi Login
