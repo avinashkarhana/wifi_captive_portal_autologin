@@ -1,0 +1,4 @@
+http://hnbg.wifi/login
+guest
+guest
+wi-fi Login
